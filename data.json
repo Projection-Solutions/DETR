@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": 1786155993410,
+    "timestamp": "8/7/2026, 10:26:33 PM",
+    "name": "Reagan Wyn",
+    "department": "IT",
+    "vendor": "Staples",
+    "items": [
+      {
+        "desc": "butt cracker",
+        "qty": "10",
+        "price": "5.00",
+        "total": "50.00"
+      }
+    ],
+    "grandTotal": "50.00",
+    "fileName": "data.json",
+    "fileData": "data:application/json;base64,W10="
+  }
+]
